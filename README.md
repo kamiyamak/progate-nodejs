@@ -4,5 +4,10 @@
     
     Node.jsアプリケーションとMySQLを接続しよう！
     https://prog-8.com/docs/nodejs-mysql
+
+    MySQLでデータベースを作成しよう
+    https://prog-8.com/docs/mysql-database-setup
 ### 起動
-`$ nodemon app.js`
+```$ docker-compose up```
+<br>
+[参考qiita](https://qiita.com/sho_U/items/52e221877a271146ce84)
